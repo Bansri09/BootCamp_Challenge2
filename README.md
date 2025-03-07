@@ -14,11 +14,11 @@ The challenge is organized into the following key components:
 - **Test File (`alphabetical_testing.xlsx`):** A smaller dataset for quicker testing and development.
 - **Results (Screenshots):** Screenshots showing the output of the script when applied to the data.
   
-Example of stock analysis results:
+Result of stock analysis results:
 
 <img width="718" alt="Result1" src="https://github.com/user-attachments/assets/a7594d38-48b4-4676-8366-fe08a0c7ab5c" />
 
-Example of conditional formatting applied to the data:
+Result of conditional formatting applied to the data:
 
 <img width="898" alt="Result2" src="https://github.com/user-attachments/assets/77e89683-3db4-4301-9b0e-f2c7d0f43044" />
 
