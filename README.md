@@ -48,9 +48,9 @@ The script can be run across all worksheets in the workbook, where each workshee
 
 ---
 
-## **How to Use**
+Example of stock analysis results:
+<img width="718" alt="Result1" src="https://github.com/user-attachments/assets/a7594d38-48b4-4676-8366-fe08a0c7ab5c" />
+Example of conditional formatting applied to the data:
+<img width="898" alt="Result2" src="https://github.com/user-attachments/assets/77e89683-3db4-4301-9b0e-f2c7d0f43044" />
 
-1. **Clone the Repository:**
-   Clone the repository to your local machine using:
-   ```bash
-   git clone https://github.com/yourusername/VBA-challenge.git
+
